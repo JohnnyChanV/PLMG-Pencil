@@ -1,6 +1,7 @@
 ## This is the official code page of the paper:
 
 A Distantly-Supervised Relation Extraction Method Based on Selective Gate and Noise Correction
+
 Chen Zhuowei, Tian Yujia, Wang Lianxi, Jiang Shengyi
 
 Abstract
